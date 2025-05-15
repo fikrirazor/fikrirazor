@@ -21,7 +21,7 @@ Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, J
 - 🔭 Currently working on: Building ETL Pipeline and Data inshight.
 - 🌱 Learning: Python and machine learning for data analyst.
 - 💬 Ask me about: Python, Data Analysis, Game Development.
-- 📫 Reach me: [jane.doe@example.com](mailto:fikrirozan18@gmail.com)
+- 📫 Reach me: [fikrirozan18@gmail.com](mailto:fikrirozan18@gmail.com)
 
 ## 🚀 Projects
 Here are some of my notable projects:
