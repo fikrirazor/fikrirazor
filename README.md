@@ -34,11 +34,6 @@ Here are some of my notable projects:
 - **Libraries/Frameworks:** Pandas, NumPy, Godot, React, Nextjs
 - **Tools:** Git, VS Code, Krita
 
-## 📈 Stats
-<!-- START STATS -->
-[![fikrirazor's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrirazor)](https://github.com/anuraghazra/github-readme-stats)
-<!-- END STATS -->
-
 ## 🌐 Connect with Me
 <!--- LinkedIn: [linkedin.com/in/fikri-rozan-imadudin](https://www.linkedin.com/in/fikri-rozan-imadudin )
 - Twitter: [@janedoe](https://twitter.com/fikri_rozan )
