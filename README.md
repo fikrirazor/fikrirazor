@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, JavaScript Developer
 
 ## 🌟 About Me
-- 🔭 Currently working on: Building ETL Pipeline and Data inshight.
-- 🌱 Learning: Python and machine learning for data analyst.
+- 🔭 Currently working on: Building Personal Website & Roblox Game Sambung Kata
+- 🌱 Learning: Full stack software development @Purwadhika
 - 💬 Ask me about: Python, Data Analysis, Game Development.
 - 📫 Reach me: [fikrirozan18@gmail.com](mailto:fikrirozan18@gmail.com)
 
@@ -27,7 +27,7 @@ Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, J
 Here are some of my notable projects:
 - **[Pengalaman Memasak]( ):** A simple 2D simulation cooking game build with Godot Engine.
 - **[Olist E-commerce ETL Pipeline](https://github.com/fikrirazor/Data-Pipeline-untuk-Analisis-Transaksi-E-Commerce):** end-to-end data pipeline to analyst E-commerce data.
-- **[Personal Portfolio Website](https://fikri-rozan.vercel.app/):** My personal portfolio built with NextJS.
+- **[Personal Portfolio Website](https://fikrirozan.vercel.app/):** My personal portfolio built with React Vite.
 
 ## 🛠 Skills
 - **Programming Languages:** Python, JavaScript, GDscript
@@ -35,10 +35,10 @@ Here are some of my notable projects:
 - **Tools:** Git, VS Code, Krita
 
 ## 🌐 Connect with Me
-<!--- LinkedIn: [linkedin.com/in/fikri-rozan-imadudin](https://www.linkedin.com/in/fikri-rozan-imadudin )
-- Twitter: [@janedoe](https://twitter.com/fikri_rozan )
+<!--- LinkedIn: [linkedin.com/in/fikri-rozan-imadudin-3a5202382](https://www.linkedin.com/in/fikri-rozan-imadudin-3a5202382/ )
+- Twitter: [@fikri_rozan](https://twitter.com/fikri_rozan )
 --->
 - Email: fikrirozan18@gmail.com
 
 ## 🎉 Fun Fact
-I started coding html when I was 13, and now I like playing game!
+I like farming so.... after graduate code i will farm 🤣🤣🤣🤣
