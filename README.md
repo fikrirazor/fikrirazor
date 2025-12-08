@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, JavaScript Developer
 
 ## 🌟 About Me
-- 🔭 Currently working on: Building Personal Website & Roblox Game Sambung Kata
+- 🔭 Currently working on: Building Personal Website(React vite), Roblox Game Sambung Kata & if-fertcalc app calculate natural fertilizer built with Godot
 - 🌱 Learning: Full stack software development @Purwadhika
 - 💬 Ask me about: Python, Data Analysis, Game Development.
 - 📫 Reach me: [fikrirozan18@gmail.com](mailto:fikrirozan18@gmail.com)
