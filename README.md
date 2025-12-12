@@ -43,6 +43,11 @@ Here are some of my notable projects:
 ## 🎉 Fun Fact
 I like farming so.... after graduate code i will farm 🤣🤣🤣🤣
 
+<picture>
+
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fikri-rozan-imadudin-3a5202382) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fikri_rozan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fikrirozan18@gmail.com) 
 
