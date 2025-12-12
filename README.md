@@ -42,3 +42,6 @@ Here are some of my notable projects:
 
 ## 🎉 Fun Fact
 I like farming so.... after graduate code i will farm 🤣🤣🤣🤣
+
+![fikrirazor's GitHub stats](https://github-readme-stats.vercel.app/api?username=fikrirazor&show_icons=true&theme=radical)
+
