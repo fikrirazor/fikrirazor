@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
-# Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, JavaScript Developer
+<h1> Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, JavaScript Developer </h1>
 
 ## 🌟 About Me
 - 🔭 Currently working on: Building Personal Website(React vite), Roblox Game Sambung Kata & if-fertcalc app calculate natural fertilizer built with Godot
