@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
-
+  <img alt="fikri-rozan" src="fikri_rozan.png" />
   <img alt="github-snake" src="github-user-contribution.svg" />
 </picture>
 <h3> <center>Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, JavaScript Developer </center></h3>
