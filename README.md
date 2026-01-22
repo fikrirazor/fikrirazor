@@ -27,31 +27,7 @@
 
 <br/>
 
-<<<<<<< HEAD
 ## 🛠️ The Arsenal
-=======
-## 🚀 Highlighted Projects
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[KARYAVISUAL - Company Profile Website](https://github.com/fikrirazor/company-profile)** | Digital company profile for creative agency built with modern technologies | `React` `TailwindCSS` `Zustand` `Formik` `Yup` |
-| **[Personal Portfolio Website](https://fikrirozan.vercel.app)** | My personal showcase site built with React Vite | `React` `Vite` |
-| **[Olist E-commerce ETL Pipeline](https://github.com/fikrirazor/Data-Pipeline-untuk-Analisis-Transaksi-E-Commerce)** | End-to-end data pipeline for e-commerce transaction analysis | `Python` `Pandas` `SQL` `Airflow` |
-| **[Pengalaman Memasak](https://github.com/fikrirazor/Pengalaman-Memasak)** | Simple 2D cooking simulation game built with Godot Engine | `Godot` `GDScript` |
-
-<br/>
-
-## 🔄 In Progress
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[if-fertcalc](https://github.com/fikrirazor/if-fertcalc)** | Natural fertilizer calculator application built with Godot | `Godot` `GDScript` |
-| **[Roblox Game - Sambung Kata](https://www.roblox.com/games/123456789/sambung-kata)** | Educational game on Roblox platform | `Lua` `Roblox Studio` |
-
-<br/>
-
-## 🛠️ Tech Stack & Tools
->>>>>>> 32bd32dd0641c3534f6de5ac22628cb41546469f
 
 ### Frontend
 
@@ -119,13 +95,8 @@ My retirement plan? Farming. Literally. 🌽🚜 (Code now, harvest later)
 <br/>
 
 <div align="center">
-<<<<<<< HEAD
   <p>Let's Connect!</p>
   <a href="mailto:fikrirozan18@gmail.com">Email</a> •
   <a href="https://www.linkedin.com/in/fikri-rozan-imadudin-3a5202382">LinkedIn</a> •
   <a href="https://fikrirozan.vercel.app">Portfolio</a>
-=======
-
-
->>>>>>> 32bd32dd0641c3534f6de5ac22628cb41546469f
 </div>
