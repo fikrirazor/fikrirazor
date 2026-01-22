@@ -29,7 +29,7 @@
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **[KARYAVISUAL - Company Profile Website](https://github.com/fikrirazor/karyavisual)** | Digital company profile for creative agency built with modern technologies | `React` `TailwindCSS` `Zustand` `Formik` `Yup` |
+| **[KARYAVISUAL - Company Profile Website](https://github.com/fikrirazor/company-profile)** | Digital company profile for creative agency built with modern technologies | `React` `TailwindCSS` `Zustand` `Formik` `Yup` |
 | **[Personal Portfolio Website](https://fikrirozan.vercel.app)** | My personal showcase site built with React Vite | `React` `Vite` |
 | **[Olist E-commerce ETL Pipeline](https://github.com/fikrirazor/Data-Pipeline-untuk-Analisis-Transaksi-E-Commerce)** | End-to-end data pipeline for e-commerce transaction analysis | `Python` `Pandas` `SQL` `Airflow` |
 | **[Pengalaman Memasak](https://github.com/fikrirazor/Pengalaman-Memasak)** | Simple 2D cooking simulation game built with Godot Engine | `Godot` `GDScript` |
