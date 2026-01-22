@@ -1,64 +1,116 @@
+<div align="center">
 
+# Fikri Rozan 🚀 | Web & Data Enthusiast | Game Developer
 
-<!--
-**fikrirazor/fikrirazor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=google-chrome&logoColor=white)](https://fikrirozan.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fikri-rozan-imadudin-3a5202382)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fikri_rozan)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fikrirozan18@gmail.com)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<picture>
-  <img alt="fikri-rozan" src="fikri_rozan.png" />
-  <img alt="github-snake" src="github-user-contribution.svg" />
-</picture>
-<h3> <center>Web & Data Enthusiast | Game Developer | Python, Pandas, Godot, GDScript HTML, JavaScript Developer </center></h3>
+<br/>
 
-## 🌟 About Me
-- 🔭 Currently working on: Building Personal Website(React vite), Roblox Game Sambung Kata & if-fertcalc app calculate natural fertilizer built with Godot
-- 🌱 Learning: Full stack software development @Purwadhika
-- 💬 Ask me about: Python, Data Analysis, Game Development.
-- 📫 Reach me: [fikrirozan18@gmail.com](mailto:fikrirozan18@gmail.com)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fikrirozan/fikrirozan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="80%">
+</div>
 
-## 🚀 Projects
-Here are some of my notable projects:
-- **[Pengalaman Memasak]( ):** A simple 2D simulation cooking game build with Godot Engine.
-- **[Olist E-commerce ETL Pipeline](https://github.com/fikrirazor/Data-Pipeline-untuk-Analisis-Transaksi-E-Commerce):** end-to-end data pipeline to analyst E-commerce data.
-- **[Personal Portfolio Website](https://fikrirozan.vercel.app/):** My personal portfolio built with React Vite.
+<br/>
 
-## 🛠 Skills
-- **Programming Languages:** Python, JavaScript, GDscript
-- **Libraries/Frameworks:** Pandas, NumPy, Godot, React, Nextjs
-- **Tools:** Git, VS Code, Krita
+## 👨‍💻 About Me
 
-## 🌐 Connect with Me
-<!--- LinkedIn: [linkedin.com/in/fikri-rozan-imadudin-3a5202382](https://www.linkedin.com/in/fikri-rozan-imadudin-3a5202382/ )
-- Twitter: [@fikri_rozan](https://twitter.com/fikri_rozan )
---->
-- Email: fikrirozan18@gmail.com
+A passionate developer with cross-domain expertise in full-stack web development, data analysis, and game development. Currently deepening software engineering skills intensively @Purwadhika to build impactful digital solutions. I enjoy tackling challenges that bridge different technology domains and creating engaging interactive experiences.
 
-## 🎉 Fun Fact
+<br/>
+
+## 🚀 Highlighted Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[KARYAVISUAL - Company Profile Website](https://github.com/fikrirazor/karyavisual)** | Digital company profile for creative agency built with modern technologies | `React` `TailwindCSS` `Zustand` `Formik` `Yup` |
+| **[Personal Portfolio Website](https://fikrirozan.vercel.app)** | My personal showcase site built with React Vite | `React` `Vite` |
+| **[Olist E-commerce ETL Pipeline](https://github.com/fikrirazor/Data-Pipeline-untuk-Analisis-Transaksi-E-Commerce)** | End-to-end data pipeline for e-commerce transaction analysis | `Python` `Pandas` `SQL` `Airflow` |
+| **[Pengalaman Memasak](https://github.com/fikrirazor/Pengalaman-Memasak)** | Simple 2D cooking simulation game built with Godot Engine | `Godot` `GDScript` |
+
+<br/>
+
+## 🔄 In Progress
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[if-fertcalc](https://github.com/fikrirazor/if-fertcalc)** | Natural fertilizer calculator application built with Godot | `Godot` `GDScript` |
+| **[Roblox Game - Sambung Kata](https://www.roblox.com/games/123456789/sambung-kata)** | Educational game on Roblox platform | `Lua` `Roblox Studio` |
+
+<br/>
+
+## 🛠️ Tech Stack & Tools
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
+![NextJS](https://img.shields.io/badge/nextjs-%23000000.svg?style=flat&logo=next.js&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+
+### Data Science & Analysis
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) 
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
+
+### Game Development
+![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) 
+![GDScript](https://img.shields.io/badge/GDScript-355481?style=flat&logo=godot-engine&logoColor=white)
+
+### Tools & Design
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) 
+![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white)
+
+<br/>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikrirozan&show_icons=true&theme=dark&hide_border=true)<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrirozan&layout=compact&theme=dark&hide_border=true)
+
+<br/>
+
+## 🎯 Fun Fact
+
 I like farming so.... after graduate code i will farm 🤣🤣🤣🤣
 
+<br/>
 
+## 📫 Let's Connect
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fikri-rozan-imadudin-3a5202382) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fikri_rozan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fikrirozan18@gmail.com) 
+- **Email:** [fikrirozan18@gmail.com](mailto:fikrirozan18@gmail.com)
+- **LinkedIn:** [Fikri Rozan Imadudin](https://www.linkedin.com/in/fikri-rozan-imadudin-3a5202382)
+- **Portfolio:** [fikrirozan.vercel.app](https://fikrirozan.vercel.app)
+- **GitHub:** [fikrirozan](https://github.com/fikrirozan)
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=flat&logo=krita&logoColor=EEF37B) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=flat&logo=playwright&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat&logo=godot-engine) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fikrirazor&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fikrirazor&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrirazor&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=fikrirazor&icon=0&color=8)](https://visitcount.itsvg.in)
+<div align="center">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Visitor Count](https://visitcount.itsvg.in/api?id=fikrirozan&icon=0&color=0)
+
+</div>
