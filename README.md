@@ -12,14 +12,16 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fikrirozan/fikrirozan/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="80%">
+  <img src="github-user-contribution.svg" alt="GitHub Contribution Snake" width="80%">
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
+## 🌟 About Me
+- 🔭 Currently working on: Building Personal Website(React vite), Roblox Game Sambung Kata & if-fertcalc app calculate natural fertilizer built with Godot
+- 🌱 Learning: Full stack software development @Purwadhika
+- 💬 Ask me about: Python, Data Analysis, Game Development.
 
-A passionate developer with cross-domain expertise in full-stack web development, data analysis, and game development. Currently deepening software engineering skills intensively @Purwadhika to build impactful digital solutions. I enjoy tackling challenges that bridge different technology domains and creating engaging interactive experiences.
 
 <br/>
 
@@ -87,12 +89,6 @@ A passionate developer with cross-domain expertise in full-stack web development
 
 <br/>
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fikrirozan&show_icons=true&theme=dark&hide_border=true)<br/>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fikrirozan&layout=compact&theme=dark&hide_border=true)
-
-<br/>
 
 ## 🎯 Fun Fact
 
@@ -111,6 +107,5 @@ I like farming so.... after graduate code i will farm 🤣🤣🤣🤣
 
 <div align="center">
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=fikrirozan&icon=0&color=0)
 
 </div>
