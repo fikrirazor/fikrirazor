@@ -72,7 +72,8 @@
 
 | Project                                                                                                   | Description                                                  | Tech Stack                        |
 | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------- |
-| **[KARYAVISUAL](https://github.com/fikrirazor/karyavisual)**                                              | A digital face for a creative agency.                        | `React` `TailwindCSS` `Zustand`   |
+| **[ticketon](https://github.com/fikrirazor/ticketon-frontend)**                                           | A ticket management web app                                  | `React` `Vite` `express`          |
+| **[KARYAVISUAL](https://github.com/fikrirazor/company-profile)**                                              | A digital face for a creative agency.                        | `React` `TailwindCSS` `Zustand`   |
 | **[Personal Portfolio](https://fikrirozan.vercel.app)**                                                   | Main Menu: Player stats, inventory, and achievements.        | `React` `Vite`                    |
 | **[Olist ETL Pipeline](https://github.com/fikrirazor/Data-Pipeline-untuk-Analisis-Transaksi-E-Commerce)** | End-to-end data pipeline for e-commerce transaction analysis | `Python` `Pandas` `SQL` `Airflow` |
 | **[Pengalaman Memasak](https://github.com/fikrirazor/Pengalaman-Memasak)**                                | A chill cooking sim to relax and vibe.                       | `Godot` `GDScript`                |
