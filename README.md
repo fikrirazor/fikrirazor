@@ -89,12 +89,6 @@
 
 <br/>
 
-## 🎯 Fun Fact
-
-My retirement plan? Farming. Literally. 🌽🚜 (Code now, harvest later)
-
-<br/>
-
 <div align="center">
   <p>Let's Connect!</p>
   <a href="mailto:fikrirozan18@gmail.com">Email</a> •
