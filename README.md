@@ -92,6 +92,6 @@
 <div align="center">
   <p>Let's Connect!</p>
   <a href="mailto:fikrirozan18@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/fikri-rozan-imadudin-3a5202382">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/fikri-rozan-imadudin/">LinkedIn</a> •
   <a href="https://fikrirozan.vercel.app">Portfolio</a>
 </div>
